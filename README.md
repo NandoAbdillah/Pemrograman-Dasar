@@ -1,2 +1,2 @@
 # Progdas-Smt-1
-Pemrograman Dasar menggunakan C++
+Repositori Semester 1 matkul Pemrograman Dasar menggunakan C++
